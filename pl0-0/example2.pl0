@@ -1,0 +1,4 @@
+var i;
+begin
+i := i + 2 * 9 / 4
+end.
